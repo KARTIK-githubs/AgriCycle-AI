@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="4" fill="#265337"/>
+  <!-- Agricultural furrow & seedling curve -->
+  <path d="M7 23C11 23 14 20 15 16C15.5 13.5 14 10 10 9C9.5 13 11 17 15 19" stroke="#EBF2ED" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M15 19C19 21 23 19 25 15C22 14.5 18.5 15.5 17 18" stroke="#D8CEBA" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <circle cx="21" cy="11" r="2.5" fill="#B85D2A"/>
+</svg>
